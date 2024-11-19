@@ -1,0 +1,14 @@
+F:\C# - course\Day 2\User Input\bin\Debug\net8.0\User Input.exe
+F:\C# - course\Day 2\User Input\bin\Debug\net8.0\User Input.deps.json
+F:\C# - course\Day 2\User Input\bin\Debug\net8.0\User Input.runtimeconfig.json
+F:\C# - course\Day 2\User Input\bin\Debug\net8.0\User Input.dll
+F:\C# - course\Day 2\User Input\bin\Debug\net8.0\User Input.pdb
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\User Input.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\User Input.AssemblyInfoInputs.cache
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\User Input.AssemblyInfo.cs
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\User Input.csproj.CoreCompileInputs.cache
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\User Input.dll
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\refint\User Input.dll
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\User Input.pdb
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\User Input.genruntimeconfig.cache
+F:\C# - course\Day 2\User Input\obj\Debug\net8.0\ref\User Input.dll

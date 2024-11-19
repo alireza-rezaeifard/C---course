@@ -1,0 +1,14 @@
+F:\C# - course\Day 1\Day one - variable's\bin\Debug\net8.0\Day one - variable's.exe
+F:\C# - course\Day 1\Day one - variable's\bin\Debug\net8.0\Day one - variable's.deps.json
+F:\C# - course\Day 1\Day one - variable's\bin\Debug\net8.0\Day one - variable's.runtimeconfig.json
+F:\C# - course\Day 1\Day one - variable's\bin\Debug\net8.0\Day one - variable's.dll
+F:\C# - course\Day 1\Day one - variable's\bin\Debug\net8.0\Day one - variable's.pdb
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\Day one - variable's.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\Day one - variable's.AssemblyInfoInputs.cache
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\Day one - variable's.AssemblyInfo.cs
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\Day one - variable's.csproj.CoreCompileInputs.cache
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\Day one - variable's.dll
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\refint\Day one - variable's.dll
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\Day one - variable's.pdb
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\Day one - variable's.genruntimeconfig.cache
+F:\C# - course\Day 1\Day one - variable's\obj\Debug\net8.0\ref\Day one - variable's.dll

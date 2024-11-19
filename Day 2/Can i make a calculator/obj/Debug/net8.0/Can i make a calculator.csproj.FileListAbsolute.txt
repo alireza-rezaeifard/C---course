@@ -1,0 +1,14 @@
+F:\C# - course\Day 2\Can i make a calculator\bin\Debug\net8.0\Can i make a calculator.exe
+F:\C# - course\Day 2\Can i make a calculator\bin\Debug\net8.0\Can i make a calculator.deps.json
+F:\C# - course\Day 2\Can i make a calculator\bin\Debug\net8.0\Can i make a calculator.runtimeconfig.json
+F:\C# - course\Day 2\Can i make a calculator\bin\Debug\net8.0\Can i make a calculator.dll
+F:\C# - course\Day 2\Can i make a calculator\bin\Debug\net8.0\Can i make a calculator.pdb
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\Can i make a calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\Can i make a calculator.AssemblyInfoInputs.cache
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\Can i make a calculator.AssemblyInfo.cs
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\Can i make a calculator.csproj.CoreCompileInputs.cache
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\Can i make a calculator.dll
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\refint\Can i make a calculator.dll
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\Can i make a calculator.pdb
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\Can i make a calculator.genruntimeconfig.cache
+F:\C# - course\Day 2\Can i make a calculator\obj\Debug\net8.0\ref\Can i make a calculator.dll

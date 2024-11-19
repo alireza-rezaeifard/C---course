@@ -1,0 +1,14 @@
+F:\C# - course\Day 1\first app\bin\Debug\net8.0\first app.exe
+F:\C# - course\Day 1\first app\bin\Debug\net8.0\first app.deps.json
+F:\C# - course\Day 1\first app\bin\Debug\net8.0\first app.runtimeconfig.json
+F:\C# - course\Day 1\first app\bin\Debug\net8.0\first app.dll
+F:\C# - course\Day 1\first app\bin\Debug\net8.0\first app.pdb
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\first app.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\first app.AssemblyInfoInputs.cache
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\first app.AssemblyInfo.cs
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\first app.csproj.CoreCompileInputs.cache
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\first app.dll
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\refint\first app.dll
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\first app.pdb
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\first app.genruntimeconfig.cache
+F:\C# - course\Day 1\first app\obj\Debug\net8.0\ref\first app.dll
