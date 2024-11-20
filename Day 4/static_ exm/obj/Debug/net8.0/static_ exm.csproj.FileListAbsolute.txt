@@ -1,0 +1,15 @@
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\static_ exm.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\static_ exm.AssemblyInfoInputs.cache
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\static_ exm.AssemblyInfo.cs
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\static_ exm.csproj.CoreCompileInputs.cache
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\static_ exm.sourcelink.json
+F:\C# - course\Day 4\static_ exm\bin\Debug\net8.0\static_ exm.exe
+F:\C# - course\Day 4\static_ exm\bin\Debug\net8.0\static_ exm.deps.json
+F:\C# - course\Day 4\static_ exm\bin\Debug\net8.0\static_ exm.runtimeconfig.json
+F:\C# - course\Day 4\static_ exm\bin\Debug\net8.0\static_ exm.dll
+F:\C# - course\Day 4\static_ exm\bin\Debug\net8.0\static_ exm.pdb
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\static_ exm.dll
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\refint\static_ exm.dll
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\static_ exm.pdb
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\static_ exm.genruntimeconfig.cache
+F:\C# - course\Day 4\static_ exm\obj\Debug\net8.0\ref\static_ exm.dll

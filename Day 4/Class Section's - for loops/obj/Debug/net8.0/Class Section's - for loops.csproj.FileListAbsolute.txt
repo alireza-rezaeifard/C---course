@@ -1,0 +1,15 @@
+F:\C# - course\Day 4\Class Section's - for loops\bin\Debug\net8.0\Class Section's - for loops.exe
+F:\C# - course\Day 4\Class Section's - for loops\bin\Debug\net8.0\Class Section's - for loops.deps.json
+F:\C# - course\Day 4\Class Section's - for loops\bin\Debug\net8.0\Class Section's - for loops.runtimeconfig.json
+F:\C# - course\Day 4\Class Section's - for loops\bin\Debug\net8.0\Class Section's - for loops.dll
+F:\C# - course\Day 4\Class Section's - for loops\bin\Debug\net8.0\Class Section's - for loops.pdb
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\Class Section's - for loops.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\Class Section's - for loops.AssemblyInfoInputs.cache
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\Class Section's - for loops.AssemblyInfo.cs
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\Class Section's - for loops.csproj.CoreCompileInputs.cache
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\Class Section's - for loops.sourcelink.json
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\Class Section's - for loops.dll
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\refint\Class Section's - for loops.dll
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\Class Section's - for loops.pdb
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\Class Section's - for loops.genruntimeconfig.cache
+F:\C# - course\Day 4\Class Section's - for loops\obj\Debug\net8.0\ref\Class Section's - for loops.dll

@@ -1,11 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Xml.Linq;
 using Classes;
 
 Console.WriteLine("Hello, there!");
 
 // Create a list to store cars
 List<Car> cars = new List<Car>();
+List<Person> persons = new List<Person>();
 
 // Add car1
 Car car1 = new Car
@@ -50,9 +52,42 @@ Car car5 = new Car()
 };
 cars.Add(car5);
 
+
+Person person1 = new Person()
+{
+    name = "alireza",
+    age = 22,
+    id = 99112520
+};
+persons.Add(person1);
+
+Person person2 = new Person()
+{
+    name = "amir",
+    age = 28,
+    id = 99112538
+};
+persons.Add(person2);
+
+Person person3 = new Person()
+{
+    name = "ahmad",
+    age = 25,
+    id = 99112543
+};
+persons.Add(person3);
+
+Console.WriteLine("\nAll Persons:");
+foreach (Person person in persons)
+{
+    Console.WriteLine($"person Name: {person.name}, id: {person.id}, age: {person.age} years old");
+}
+
 // Show all cars
 Console.WriteLine("\nAll Cars:");
 foreach (Car car in cars)
 {
     Console.WriteLine($"Car Name: {car.CarName}, Model: {car.CarModel}, Max Speed: {car.MaxCarSpeed} km/h");
 }
+
+

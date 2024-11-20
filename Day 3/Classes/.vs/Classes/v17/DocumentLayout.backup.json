@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{57BB8870-EF0A-4DF4-AE47-755F60E4B55A}|Classes.csproj|f:\\c# - course\\day 3\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57BB8870-EF0A-4DF4-AE47-755F60E4B55A}|Classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BB8870-EF0A-4DF4-AE47-755F60E4B55A}|Classes.csproj|f:\\c# - course\\day 3\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BB8870-EF0A-4DF4-AE47-755F60E4B55A}|Classes.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 3\\Classes\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "F:\\C# - course\\Day 3\\Classes\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:45:32.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\C# - course\\Day 3\\Classes\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\C# - course\\Day 3\\Classes\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAAPAAAAAAAAAA==",
+              "ToolTip": "F:\\C# - course\\Day 3\\Classes\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T01:09:22.898Z",
               "EditorCaption": ""

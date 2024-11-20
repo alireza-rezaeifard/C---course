@@ -12,3 +12,4 @@ F:\C# - course\Day 3\Classes\obj\Debug\net8.0\refint\Classes.dll
 F:\C# - course\Day 3\Classes\obj\Debug\net8.0\Classes.pdb
 F:\C# - course\Day 3\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
 F:\C# - course\Day 3\Classes\obj\Debug\net8.0\ref\Classes.dll
+F:\C# - course\Day 3\Classes\obj\Debug\net8.0\Classes.sourcelink.json
