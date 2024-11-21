@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# - course\\Day 6\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{838D89E2-14DF-44D3-9F64-220DBE6937BD}|calculator.csproj|f:\\c# - course\\day 6\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D89E2-14DF-44D3-9F64-220DBE6937BD}|calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D89E2-14DF-44D3-9F64-220DBE6937BD}|calculator.csproj|f:\\c# - course\\day 6\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{838D89E2-14DF-44D3-9F64-220DBE6937BD}|calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D89E2-14DF-44D3-9F64-220DBE6937BD}|calculator.csproj|f:\\c# - course\\day 6\\calculator\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D89E2-14DF-44D3-9F64-220DBE6937BD}|calculator.csproj|solutionrelative:icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D89E2-14DF-44D3-9F64-220DBE6937BD}|calculator.csproj|f:\\c# - course\\day 6\\calculator\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D89E2-14DF-44D3-9F64-220DBE6937BD}|calculator.csproj|solutionrelative:calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 6\\calculator\\Calculate.cs",
+              "RelativeDocumentMoniker": "Calculate.cs",
+              "ToolTip": "F:\\C# - course\\Day 6\\calculator\\Calculate.cs",
+              "RelativeToolTip": "Calculate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:02:35.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculate.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 6\\calculator\\ICalculate.cs",
+              "RelativeDocumentMoniker": "ICalculate.cs",
+              "ToolTip": "F:\\C# - course\\Day 6\\calculator\\ICalculate.cs",
+              "RelativeToolTip": "ICalculate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:00:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 6\\calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\C# - course\\Day 6\\calculator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0gAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:52:21.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\C# - course\\Day 6\\calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\C# - course\\Day 6\\calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:45:58.979Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
