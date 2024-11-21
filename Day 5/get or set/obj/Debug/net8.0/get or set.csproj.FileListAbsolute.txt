@@ -1,0 +1,15 @@
+F:\C# - course\Day 5\get or set\bin\Debug\net8.0\get or set.exe
+F:\C# - course\Day 5\get or set\bin\Debug\net8.0\get or set.deps.json
+F:\C# - course\Day 5\get or set\bin\Debug\net8.0\get or set.runtimeconfig.json
+F:\C# - course\Day 5\get or set\bin\Debug\net8.0\get or set.dll
+F:\C# - course\Day 5\get or set\bin\Debug\net8.0\get or set.pdb
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\get or set.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\get or set.AssemblyInfoInputs.cache
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\get or set.AssemblyInfo.cs
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\get or set.csproj.CoreCompileInputs.cache
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\get or set.sourcelink.json
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\get or set.dll
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\refint\get or set.dll
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\get or set.pdb
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\get or set.genruntimeconfig.cache
+F:\C# - course\Day 5\get or set\obj\Debug\net8.0\ref\get or set.dll

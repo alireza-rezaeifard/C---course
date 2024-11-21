@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# - course\\Day 5\\generic_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98115800-14BF-42BE-BE07-CF35A2EDE9B4}|generic_list.csproj|f:\\c# - course\\day 5\\generic_list\\remove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98115800-14BF-42BE-BE07-CF35A2EDE9B4}|generic_list.csproj|solutionrelative:remove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98115800-14BF-42BE-BE07-CF35A2EDE9B4}|generic_list.csproj|f:\\c# - course\\day 5\\generic_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98115800-14BF-42BE-BE07-CF35A2EDE9B4}|generic_list.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98115800-14BF-42BE-BE07-CF35A2EDE9B4}|generic_list.csproj|f:\\c# - course\\day 5\\generic_list\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98115800-14BF-42BE-BE07-CF35A2EDE9B4}|generic_list.csproj|solutionrelative:students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98115800-14BF-42BE-BE07-CF35A2EDE9B4}|generic_list.csproj|f:\\c# - course\\day 5\\generic_list\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98115800-14BF-42BE-BE07-CF35A2EDE9B4}|generic_list.csproj|solutionrelative:university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "students.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 5\\generic_list\\students.cs",
+              "RelativeDocumentMoniker": "students.cs",
+              "ToolTip": "F:\\C# - course\\Day 5\\generic_list\\students.cs",
+              "RelativeToolTip": "students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:47:58.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "university.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 5\\generic_list\\university.cs",
+              "RelativeDocumentMoniker": "university.cs",
+              "ToolTip": "F:\\C# - course\\Day 5\\generic_list\\university.cs",
+              "RelativeToolTip": "university.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:17:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "remove.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 5\\generic_list\\remove.cs",
+              "RelativeDocumentMoniker": "remove.cs",
+              "ToolTip": "F:\\C# - course\\Day 5\\generic_list\\remove.cs",
+              "RelativeToolTip": "remove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:47:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 5\\generic_list\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\C# - course\\Day 5\\generic_list\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:33:53.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

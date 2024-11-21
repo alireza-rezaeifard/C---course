@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMag/PEqxB0=",
+  "success": true,
+  "projectFilePath": "F:\\C# - course\\Day 5\\generic_list\\generic_list.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alireza\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",
+    "C:\\Users\\alireza\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

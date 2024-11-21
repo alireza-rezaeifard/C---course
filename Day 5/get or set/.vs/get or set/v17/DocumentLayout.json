@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# - course\\Day 5\\get or set\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB60CD6-6725-41E6-B8FB-F298F28C1A27}|get or set.csproj|f:\\c# - course\\day 5\\get or set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB60CD6-6725-41E6-B8FB-F298F28C1A27}|get or set.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB60CD6-6725-41E6-B8FB-F298F28C1A27}|get or set.csproj|f:\\c# - course\\day 5\\get or set\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB60CD6-6725-41E6-B8FB-F298F28C1A27}|get or set.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 5\\get or set\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "F:\\C# - course\\Day 5\\get or set\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:47:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# - course\\Day 5\\get or set\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\C# - course\\Day 5\\get or set\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:41:34.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
