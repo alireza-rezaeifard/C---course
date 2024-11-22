@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPortfolio.1krbjet5gn.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\css\\cdheadline.css",
+      "PackagePath": "staticwebassets\\css\\cdheadline.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\css\\fontAwesome5Pro.css",
+      "PackagePath": "staticwebassets\\css\\fontAwesome5Pro.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-duotone-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\blog\\article-inner1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\article-inner1.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\blog\\article-inner2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\article-inner2.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\blog\\article1-xl.png",
+      "PackagePath": "staticwebassets\\img\\blog\\article1-xl.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\blog\\article1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\article1.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\blog\\article2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\article2.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\blog\\article3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\article3.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\blog\\comment-author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\comment-author.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\blog\\comment-author2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\comment-author2.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\hero-img-2.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-2.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\img\\hero-img.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\partners\\logo1.svg",
+      "PackagePath": "staticwebassets\\img\\partners\\logo1.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\partners\\logo2.svg",
+      "PackagePath": "staticwebassets\\img\\partners\\logo2.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\partners\\logo3.svg",
+      "PackagePath": "staticwebassets\\img\\partners\\logo3.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\partners\\logo4.svg",
+      "PackagePath": "staticwebassets\\img\\partners\\logo4.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\portfolio-img1-1.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-img1-1.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\portfolio-img1-2.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-img1-2.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\portfolio-img1-xl.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-img1-xl.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\portfolio-img1.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-img1.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\portfolio-img2.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-img2.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\portfolio-img3.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-img3.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\portfolio\\portfolio-img4.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-img4.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\site-logo.svg",
+      "PackagePath": "staticwebassets\\img\\site-logo.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\skill\\css.svg",
+      "PackagePath": "staticwebassets\\img\\skill\\css.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\skill\\figma.svg",
+      "PackagePath": "staticwebassets\\img\\skill\\figma.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\skill\\html.svg",
+      "PackagePath": "staticwebassets\\img\\skill\\html.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\skill\\jquery.svg",
+      "PackagePath": "staticwebassets\\img\\skill\\jquery.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\skill\\js.svg",
+      "PackagePath": "staticwebassets\\img\\skill\\js.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\skill\\tailwind.svg",
+      "PackagePath": "staticwebassets\\img\\skill\\tailwind.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\skill\\webflow.svg",
+      "PackagePath": "staticwebassets\\img\\skill\\webflow.svg"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\testimonial\\author1.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\author1.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\testimonial\\author2.png",
+      "PackagePath": "staticwebassets\\img\\testimonial\\author2.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\user-sidebar-thumb-light.png",
+      "PackagePath": "staticwebassets\\img\\user-sidebar-thumb-light.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\img\\user-sidebar-thumb.png",
+      "PackagePath": "staticwebassets\\img\\user-sidebar-thumb.png"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\cd-headline.js",
+      "PackagePath": "staticwebassets\\js\\cd-headline.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\js\\circle-progress.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\scrollIt.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollIt.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\theme-mode.js",
+      "PackagePath": "staticwebassets\\js\\theme-mode.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\tw-elements.umd.min.js",
+      "PackagePath": "staticwebassets\\js\\tw-elements.umd.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\C# - course\\Asp.net core - portfolio\\Myportfolio\\MyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyPortfolio.props",
+      "PackagePath": "build\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyPortfolio.props",
+      "PackagePath": "buildTransitive\\MyPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

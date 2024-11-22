@@ -1,0 +1,12 @@
+how to addres views in templates in c# - MVC models :
+
+link generation  : using url action
+
+<a href="@Url.Action("Index", "Home")"></a>
+
+@Url.Action("Action_name", "Controller_name")
+
+
+link generation using tag helpers :
+
+<a asp-controller="Controller_name" asp-action="action_name">hello</a>
